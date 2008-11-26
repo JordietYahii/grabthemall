@@ -1,0 +1,16 @@
+#summary GrabThemAll - Informations
+#labels Featured
+
+= Introduction =
+
+GrabThemAll is a Firefox extension based on [http://www.screengrab.org/ Screengrab]. Difference between GrabThemAll and Screengrab is that G.T.A. takes screenshot of all specifed URLs with one click.
+
+= Details =
+
+== Basic usage ==
+
+Details about GrabThemAll are available at [https://addons.mozilla.org/en-US/firefox/addon/7800 https://addons.mozilla.org/(...)] and [http://rafal.zelazko.info/2008/06/23/easy-screenshot-of-many-sites/ http://rafal.zelazko.info/(...)]
+
+== Screencast ==
+
+Screencast is available at http://rafal.zelazko.info/2008/06/23/easy-screenshot-of-many-sites/
